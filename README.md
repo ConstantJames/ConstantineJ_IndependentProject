@@ -1,0 +1,30 @@
+The build as well as a text copy of the assets and tutorials used text are in the assets folder.
+Here is a copy of the assets and tutorials used list as well just in case.
+
+Assets Used
+Galactic Heroes Cartoon Spaceship
+https://assetstore.unity.com/packages/3d/galactic-heroes-cartoon-spaceship-70188
+
+Planets of the Solar System 3D
+https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219
+
+Adobe Stock Snake skin texture
+https://stock.adobe.com/images/close-up-of-luxury-snake-skin-texture/272355876
+
+TMP example assets(engine)
+
+
+Tutorials/references Used
+For the player explosions
+https://community.gamedev.tv/t/how-to-add-explosion-effect-after-the-player-gets-destroyed/85581/2
+
+for the point system
+http://plbm.com/?p=248
+
+For Projectile
+https://learn.unity.com/tutorial/using-c-to-launch-projectiles#
+
+For Quit Key
+https://stackoverflow.com/questions/30235248/quitapplication-button-on-unity
+
+Started with some of the gauntlet runner code as a base as well as some book assets.
